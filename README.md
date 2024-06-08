@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left" style="color: #42b883;">About me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left" style="color: #42b883;">I code with</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h2 align="left">Reach out</h2>
+<h2 align="left" style="color: #42b883;">Reach out</h2>
 
 ###
 
