@@ -1,7 +1,16 @@
-<!-- HERO -->
-<h1 align="center">
-  Hey 👋 I'm Dušan
-</h1>
+<!-- =========================
+   CYBERPUNK PURPLE / GOLD README
+   ========================= -->
+
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FDB927,100:2A004F&height=210&section=header&text=Du%C5%A1an%20Ivancic&fontSize=48&fontColor=FDB927&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- LOGO (replace with your logo path if stored in repo) -->
+<p align="center">
+  <img src="https://github.com/giovannini96/giovannini96/blob/main/src/logo.png?raw=true" width="220" />
+</p>
 
 <h3 align="center">
   Full-Stack Developer in progress · Hamburg
@@ -12,79 +21,55 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+training;Loves+clean+code+%26+good+design;Always+learning+something+new" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://github.com/giovannini96/giovannini96/blob/main/src/futureRoom.jpeg?raw=true" width="700"/>
-</div>
-
----
-
-## 🚀 About me
-
-💻 Currently in a 3-year software development program at a major tech company in Germany  
-🧠 Learning full-stack by building real projects  
-🛠️ Into clean UI, solid backend logic, and systems that actually scale  
-🌱 Always exploring new tech and better ways to build  
-
-Outside of coding:
-- 🏀 Basketball  
-- 🏊 Swimming  
-- 🌍 Travel & nature  
-- 🎧 Music while coding  
-
-I like solving problems, collaborating with other devs, and building things that feel good to use.
-
----
-
-## 🧰 Tech I use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,go,java,python,c,php,docker,git,bash,mysql,postgres,terraform&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannini96&show_icons=true&theme=vue-dark&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannini96&layout=compact&theme=vue-dark&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=700&color=FDB927&lines=Full-Stack+Developer+in+training;Clean+UI+%7C+Solid+Backend+%7C+Scalable+Systems;Cyberpunk+purple+%2B+gold+energy;Always+learning+something+new" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=giovannini96&theme=vue-dark&hide_border=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:FDB927&height=3" />
 </p>
 
----
-
-## 🌍 Currently
-
-- Building full-stack projects  
-- Improving backend architecture skills  
-- Exploring DevOps & infrastructure  
-- Trying to write cleaner code every day  
-
----
-
-## 🤝 Let's connect
-
+<!-- SOCIAL -->
 <p align="center">
   <a href="https://www.linkedin.com/in/dusan-ivancic-42344117a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="discordapp.com/users/559488062065868849">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://discordapp.com/users/559488062065868849">
+    <img src="https://img.shields.io/badge/Discord-FDB927?style=for-the-badge&logo=discord&logoColor=0D0B1A" />
   </a>
 </p>
 
----
+<!-- FEATURE IMAGE -->
+<div align="center" style="background:#0D0B1A; padding:18px; border-radius:18px;">
+  <img src="https://github.com/giovannini96/giovannini96/blob/main/src/futureRoom.jpeg?raw=true" width="780"/>
+</div>
 
 <p align="center">
-  <i>Code. Learn. Improve. Repeat.</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDB927,100:6A00FF&height=3" />
 </p>
+
+<!-- ABOUT -->
+<h2 align="center">⚡ About me</h2>
+
+<p align="center">
+💻 3-year software development program in Germany  
+🧠 Learning full-stack by building real projects  
+🛠️ Clean UI · solid backend · scalable systems  
+🌱 Always exploring new tech
+</p>
+
+<p align="center">
+🏀 Basketball · 🏊 Swimming · 🌍 Travel · 🎧 Music
+</p>
+
+<div align="center">
+
+```txt
+STATUS: BUILDING • BREAKING • REFINING
+MODE: PURPLE/GOLD • CLEAN CODE • SHIP FAST
+```
+</div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:FDB927&height=3" /> </p> <!-- TECH STACK --> <h2 align="center">🧰 Tech stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,go,java,python,c,php,docker,git,bash,mysql,postgres,terraform&theme=dark" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDB927,100:2A004F&height=3" /> </p> <!-- CURRENT --> <h2 align="center">🌍 Currently</h2> <p align="center"> Building full-stack projects Improving backend architecture Exploring DevOps & infrastructure Writing cleaner code daily </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2A004F,100:6A00FF&height=3" /> </p> <!-- STATS --> <h2 align="center">📊 GitHub activity</h2> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannini96&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannini96&layout=compact&theme=midnight-purple&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=giovannini96&theme=midnight-purple&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=giovannini96&bg_color=0D0B1A&color=FDB927&line=6A00FF&point=FDB927&area=true&hide_border=true" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:FDB927&height=3" /> </p> <!-- PROJECTS --> <h2 align="center">🧪 Projects</h2> <div align="center">
+Project	Description	Tech
+Project 1	Short description	React · Node
+Project 2	Short description	Go · Postgres
+Project 3	Short description	Java · Spring
+</div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDB927,100:6A00FF&height=3" /> </p> <!-- CONTACT --> <h2 align="center">🤝 Let’s connect</h2> <p align="center"> <a href="https://www.linkedin.com/in/dusan-ivancic-42344117a"> <img src="https://img.shields.io/badge/LinkedIn-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://discordapp.com/users/559488062065868849"> <img src="https://img.shields.io/badge/Discord-FDB927?style=for-the-badge&logo=discord&logoColor=0D0B1A"/> </a> </p> <p align="center"> <i>Code. Learn. Improve. Repeat.</i> </p> <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A004F,50:6A00FF,100:FDB927&height=140&section=footer" /> </p> 
