@@ -13,15 +13,15 @@
 </p>
 
 <h3 align="center">
-  Full-Stack Developer in progress · Hamburg
+  Junior Software Developer · Hamburg, Germany
 </h3>
 
 <p align="center">
-  I build things, break things, and then build them better.
+  In a world of frameworks, understand the fundamentals.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=820&color=FDB927&lines=Passionate+about+new+technologies+and+continuous+learning;Always+improving+skills+through+real+projects;Code+challenge+enthusiast;Clean+code+%7C+Scalability+%7C+Testing+%7C+Performance+%7C+Security;Junior+Full-Stack+Developer+shipping+production+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=820&color=FDB927&lines=Passionate+about+new+technologies+and+continuous+learning;Always+improving+skills+through+real+projects;Code+challenge+enthusiast;Clean+code+%7C+Scalability+%7C+Testing+%7C+Performance+%7C+Security" />
 </p>
 
 <p align="center">
