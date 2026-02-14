@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<table>
-<tr>
+<table style="border:0;">
+<tr style="border:0;">
 <td align="center" width="420" style="border:0;">
 
 ### 💻 Developer  
@@ -93,7 +93,7 @@ Focused on long-term quality over quick fixes
 </td>
 </tr>
 
-<tr>
+<tr style="border:0;">
 <td align="center" width="420" style="border:0; padding-top:30px;">
 
 ### 🛠️ Engineering  
