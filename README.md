@@ -72,55 +72,50 @@
 
 <div align="center">
 
-<!-- ROW 1 -->
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:40px;">
-
-<div style="width:420px; text-align:center;">
+<table>
+<tr>
+<td align="center" width="420" style="border:0;">
 
 ### 💻 Developer  
 Junior Software Developer (Full-Stack)  
 Finished 3-year software engineering program in Germany  
 Building scalable software solutions  
 
-</div>
+</td>
 
-<div style="width:420px; text-align:center;">
+<td align="center" width="420" style="border:0;">
 
 ### 🧠 Mindset  
 Curious, analytical, and solution-driven  
 Prefer clarity over complexity  
 Focused on long-term quality over quick fixes  
 
-</div>
+</td>
+</tr>
 
-</div>
-
-<br>
-
-<!-- ROW 2 -->
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:40px;">
-
-<div style="width:420px; text-align:center;">
+<tr>
+<td align="center" width="420" style="border:0; padding-top:30px;">
 
 ### 🛠️ Engineering  
 Interested in architecture and system design  
 Care about testing, reliability, and performance  
 Enjoy understanding how things work under the hood  
 
-</div>
+</td>
 
-<div style="width:420px; text-align:center;">
+<td align="center" width="420" style="border:0; padding-top:30px;">
 
 ### 🌱 Growth  
 Passion for new technologies and continuous learning  
 Code challenge and problem-solving enthusiast  
 Always improving skills one step at a time  
 
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
-</div>
 
 
 <div align="center">
