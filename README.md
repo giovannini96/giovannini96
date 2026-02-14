@@ -40,7 +40,7 @@
 
 <!-- FEATURE IMAGE -->
 <div align="center" style="background:#0D0B1A; padding:18px; border-radius:18px;">
-  <img src="https://github.com/giovannini96/giovannini96/blob/main/src/futureRoom.jpeg?raw=true" width="780"/>
+  <img src="https://github.com/giovannini96/giovannini96/blob/main/src/futureRoom.png?raw=true" width="780"/>
 </div>
 
 <p align="center">
