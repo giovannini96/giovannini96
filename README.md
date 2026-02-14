@@ -4,7 +4,7 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FDB927,100:2A004F&height=210&section=header&text=Du%C5%A1an%20Ivancic&fontSize=48&fontColor=FDB927&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FDB927,100:2A004F&height=210&section=header&text=Du%C5%A1an%20Ivancic&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- LOGO (replace with your logo path if stored in repo) -->
