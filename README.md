@@ -76,23 +76,39 @@
 <tr>
 <td align="center" width="420">
 
-### 💻 Developer
-
-- 3-year software engineering program in Germany  
-- Junior Full-Stack Developer in e-commerce  
-- Building real production features  
-- Learning scalable systems & architecture  
+### 💻 Developer  
+Junior Software Developer (Full-Stack)  
+Finished 3-year software engineering program in Germany 
+Building scalable software solutions 
 
 </td>
 
 <td align="center" width="420">
 
-### 🧠 Mindset
+### 🧠 Mindset  
+Curious, analytical, and solution-driven  
+Prefer clarity over complexity  
+Focused on long-term quality over quick fixes  
 
-- Clean code over clever code  
-- Testing, performance, security  
-- Passion for new technologies  
-- Continuous learning & improvement  
+</td>
+</tr>
+
+<tr>
+<td align="center" width="420">
+
+### 🛠️ Engineering  
+Interested in architecture and system design  
+Care about testing, reliability, and performance  
+Enjoy understanding how things work under the hood  
+
+</td>
+
+<td align="center" width="420">
+
+### 🌱 Growth  
+Passion for new technologies and continuous learning  
+Code challenge and problem-solving enthusiast  
+Always improving skills one step at a time  
 
 </td>
 </tr>
