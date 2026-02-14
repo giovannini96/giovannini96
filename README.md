@@ -50,16 +50,55 @@
 <!-- ABOUT -->
 <h2 align="center">⚡ About me</h2>
 
+<!--<p align="center">
+💻 Finished 3-year software development program in Germany at Otto
+</p>
+
 <p align="center">
-💻 3-year software development program in Germany  
 🧠 Learning full-stack by building real projects  
+</p>
+
+<p align="center">
 🛠️ Clean UI · solid backend · scalable systems  
+</p>
+
+<p align="center">
 🌱 Always exploring new tech
 </p>
 
 <p align="center">
 🏀 Basketball · 🏊 Swimming · 🌍 Travel · 🎧 Music
-</p>
+</p>-->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="420">
+
+### 💻 Developer
+
+- 3-year software engineering program in Germany  
+- Junior Full-Stack Developer in e-commerce  
+- Building real production features  
+- Learning scalable systems & architecture  
+
+</td>
+
+<td align="center" width="420">
+
+### 🧠 Mindset
+
+- Clean code over clever code  
+- Testing, performance, security  
+- Passion for new technologies  
+- Continuous learning & improvement  
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
