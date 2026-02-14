@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=700&color=FDB927&lines=Full-Stack+Developer+in+training;Clean+UI+%7C+Solid+Backend+%7C+Scalable+Systems;Cyberpunk+purple+%2B+gold+energy;Always+learning+something+new" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&center=true&vCenter=true&width=820&color=FDB927&lines=Passionate+about+new+technologies+and+continuous+learning;Always+improving+skills+through+real+projects;Code+challenge+enthusiast;Clean+code+%7C+Scalability+%7C+Testing+%7C+Performance+%7C+Security;Junior+Full-Stack+Developer+shipping+production+code" />
 </p>
 
 <p align="center">
