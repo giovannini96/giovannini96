@@ -120,16 +120,13 @@
 
 </div>
 
+<p align="center">
+🏀 Basketball · 🏊 Swimming · 🌍 Travel · 🎧 Music
+</p>-->
 
 
 
 
-<div align="center">
-
-```txt
-STATUS: BUILDING • BREAKING • REFINING
-MODE: PURPLE/GOLD • CLEAN CODE • SHIP FAST
-```
 </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:FDB927&height=3" /> </p> <!-- TECH STACK --> <h2 align="center">🧰 Tech stack</h2> <p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,go,java,python,c,php,docker,git,bash,mysql,postgres,terraform&theme=dark" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDB927,100:2A004F&height=3" /> </p> <!-- CURRENT --> <h2 align="center">🌍 Currently</h2> <p align="center"> Building full-stack projects Improving backend architecture Exploring DevOps & infrastructure Writing cleaner code daily </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2A004F,100:6A00FF&height=3" /> </p> <!-- STATS --> <h2 align="center">📊 GitHub activity</h2> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannini96&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannini96&layout=compact&theme=midnight-purple&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=giovannini96&theme=midnight-purple&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=giovannini96&bg_color=0D0B1A&color=FDB927&line=6A00FF&point=FDB927&area=true&hide_border=true" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:FDB927&height=3" /> </p> <!-- PROJECTS --> <h2 align="center">🧪 Projects</h2> <div align="center">
 Project	Description	Tech
 Project 1	Short description	React · Node
