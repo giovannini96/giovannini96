@@ -17,7 +17,7 @@
 </h3>
 
 <p align="center">
-  In a world of frameworks, understand the fundamentals.
+  In a world of frameworks and AI, understand the fundamentals.
 </p>
 
 <p align="center">
