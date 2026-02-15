@@ -4,13 +4,13 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FDB927,100:2A004F&height=210&section=header&text=Du%C5%A1an%20Ivan%C4%8Di%C4%87&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:FDB927,100:2A004F&height=210&section=header&text=Du%C5%A1an%20Ivan%C4%8Di%C4%87&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- LOGO (replace with your logo path if stored in repo) -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/giovannini96/giovannini96/blob/main/src/logo.png?raw=true" width="220" />
-</p>
+</p>-->
 
 <h3 align="center">
   Junior Software Developer · Hamburg, Germany
@@ -50,25 +50,6 @@
 <!-- ABOUT -->
 <h2 align="center">⚡ About me</h2>
 
-<!--<p align="center">
-💻 Finished 3-year software development program in Germany at Otto
-</p>
-
-<p align="center">
-🧠 Learning full-stack by building real projects  
-</p>
-
-<p align="center">
-🛠️ Clean UI · solid backend · scalable systems  
-</p>
-
-<p align="center">
-🌱 Always exploring new tech
-</p>
-
-<p align="center">
-🏀 Basketball · 🏊 Swimming · 🌍 Travel · 🎧 Music
-</p>-->
 
 <div align="center">
 
@@ -178,10 +159,10 @@
 </p>
 <!-- STATS --> 
 <h2 align="center">📊 GitHub activity</h2>
-<p align="center">
+<!--<p align="center">
    <img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannini96&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" /> 
    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannini96&layout=compact&theme=midnight-purple&hide_border=true" /> 
-</p>
+</p>-->
 <p align="center"> 
    <img src="https://streak-stats.demolab.com?user=giovannini96&theme=midnight-purple&hide_border=true" /> 
 </p>
