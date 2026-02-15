@@ -139,27 +139,37 @@
 <!-- AT WORK -->
 <h3 align="center">At work</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,svelte,github,docker,terraform,postgres,aws,git,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,svelte,postgres,docker,terraform,aws,git,github,bash&theme=dark" />
 </p>
+
 
 
 <!-- APPRENTICESHIP -->
 <h3 align="center">Apprenticeship experience</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,github,docker,terraform,postgres,aws,git,bash,js,java,python,swift,gcp,vue,react,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,java,kotlin,python,swift,spring,react,vue,postgres,mysql,docker,terraform,aws,gcp,git,github,bash&theme=dark" />
 </p>
+
 
 <!-- SIDE PROJECTS -->
 <h3 align="center">Side projects</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,php,laravel,mysql,c,linux,js,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,php,c,laravel,vue,html,css,mysql,linux&theme=dark" />
 </p>
+
 
 <!-- LEARNING -->
 <h3 align="center">Learning next</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=haskell&theme=dark" />
 </p>
+
+<!-- TOOLS & ENVIRONMENT -->
+<h3 align="center">Tools & environment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,linux,vim,idea,vscode&theme=dark" />
+</p>
+
 
 
 <p align="center"> 
