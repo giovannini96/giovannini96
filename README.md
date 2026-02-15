@@ -72,9 +72,10 @@
 
 <div align="center">
 
-<table>
-<tr style="border:0;">
-<td align="center" width="420" style="border:2px; border-color: #6A00FF;">
+<table cellspacing="0" cellpadding="0" style="background:#6A00FF; padding:2px; border-radius:12px;">
+<tr>
+
+<td align="center" width="420" style="background:#0d0b1a; padding:24px;">
 
 ### 💻 Developer  
 Junior Software Developer (Full-Stack)  
@@ -83,7 +84,7 @@ Building scalable software solutions
 
 </td>
 
-<td align="center" width="420" style="border:0;">
+<td align="center" width="420" style="background:#0d0b1a; padding:24px;">
 
 ### 🧠 Mindset  
 Curious, analytical, and solution-driven  
@@ -91,10 +92,12 @@ Prefer clarity over complexity
 Focused on long-term quality over quick fixes  
 
 </td>
+
 </tr>
 
-<tr style="border:0;">
-<td align="center" width="420" style="border:0; padding-top:30px;">
+<tr>
+
+<td align="center" width="420" style="background:#0d0b1a; padding:24px;">
 
 ### 🛠️ Engineering  
 Interested in architecture and system design  
@@ -103,7 +106,7 @@ Enjoy understanding how things work under the hood
 
 </td>
 
-<td align="center" width="420" style="border:0; padding-top:30px;">
+<td align="center" width="420" style="background:#0d0b1a; padding:24px;">
 
 ### 🌱 Growth  
 Passion for new technologies and continuous learning  
@@ -111,10 +114,12 @@ Code challenge and problem-solving enthusiast
 Always improving skills one step at a time  
 
 </td>
+
 </tr>
 </table>
 
 </div>
+
 
 
 
