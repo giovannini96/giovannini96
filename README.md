@@ -208,16 +208,16 @@ Daily algorithmic and problem-solving challenges
 Customisable planning-poker application for development teams.  
 Focus on flexible voting systems, team-specific decks, and clean session UX.
 
-**Planned tech:** React · Node · WebSockets · Postgres
+**Planned tech:** Still to be decided
 
 </td>
 <td width="420" valign="top">
 
 ### 🍽 Better Meal Plan  
-Internal meal-planning tool with improved UX, automation, and tracking.  
-Goal: smarter planning, easier adjustments, and better overview for teams.
+Internal meal-overview tool with improved UX, automation, and tracking.  
+Goal: better user experience and smarter overview for teams.
 
-**Planned tech:** Full-stack web app · API backend · database-driven planning
+**Planned tech:** Still to be decided
 
 </td>
 </tr>
