@@ -153,11 +153,32 @@
    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDB927,100:2A004F&height=3" /> </p>
 <!-- CURRENT -->
 <h2 align="center">🌍 Currently</h2> 
-<p align="center">
-Working on <a href="https://www.elbjets.com" target="_blank">ELBJETS GmbH</a> — private jet charter platform based in Hamburg<br>
-Developing an internal operations app for Darija d.o.o. Belgrade — accounting, quoting, order tracking, and warehouse management<br>
-Solving <a href="https://adventofcode.com" target="_blank">Advent of Code</a> challenges to sharpen problem-solving and algorithmic skills
-</p>
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+**✈️ ELBJETS GmbH**  
+Private jet charter platform based in Hamburg  
+<a href="https://www.elbjets.com" target="_blank">Website</a>
+
+</td>
+<td align="center" width="300">
+
+**📦 Darija d.o.o. Belgrade**  
+Internal operations app: accounting, quoting,  
+order tracking & warehouse management
+
+</td>
+<td align="center" width="300">
+
+**🧩 Advent of Code**  
+Daily algorithmic and problem-solving challenges  
+<a href="https://adventofcode.com" target="_blank">View challenges</a>
+
+</td>
+</tr>
+</table>
+
 <p align="center"> 
    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2A004F,100:6A00FF&height=3" /> 
 </p>
