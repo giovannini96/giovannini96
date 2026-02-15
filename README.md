@@ -70,7 +70,7 @@
 🏀 Basketball · 🏊 Swimming · 🌍 Travel · 🎧 Music
 </p>-->
 
-<table> <tr> <td align="center" width="420"> ### 💻 Developer Junior Software Developer (Full-Stack) Finished 3-year software engineering program in Germany Building scalable software solutions </td> <td align="center" width="420"> ### 🧠 Mindset Curious, analytical, and solution-driven Prefer clarity over complexity Focused on long-term quality over quick fixes </td> </tr> <tr> <td align="center" width="420""> ### 🛠️ Engineering Interested in architecture and system design Care about testing, reliability, and performance Enjoy understanding how things work under the hood </td> <td align="center" width="420"> ### 🌱 Growth Passion for new technologies and continuous learning Code challenge and problem-solving enthusiast Always improving skills one step at a time </td> </tr> </table>
+<div align="center"> <table> <tr> <td align="center" width="420"> ### 💻 Developer Junior Software Developer (Full-Stack) Finished 3-year software engineering program in Germany Building scalable software solutions </td> <td align="center" width="420"> ### 🧠 Mindset Curious, analytical, and solution-driven Prefer clarity over complexity Focused on long-term quality over quick fixes </td> </tr> <tr> <td align="center" width="420""> ### 🛠️ Engineering Interested in architecture and system design Care about testing, reliability, and performance Enjoy understanding how things work under the hood </td> <td align="center" width="420"> ### 🌱 Growth Passion for new technologies and continuous learning Code challenge and problem-solving enthusiast Always improving skills one step at a time </td> </tr> </table> </div>
 
 
 
