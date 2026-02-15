@@ -116,7 +116,7 @@
 <!-- AT WORK -->
 <h3 align="center">At work</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,svelte,postgres,docker,terraform,aws,git,github,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,svelte,postgres,kafka,docker,terraform,aws,git,github,bash&theme=dark" />
 </p>
 
 
@@ -131,7 +131,7 @@
 <!-- SIDE PROJECTS -->
 <h3 align="center">Side projects</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,c,laravel,vue,html,css,mysql,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,php,c,laravel,vue,html,css,mysql&theme=dark" />
 </p>
 
 
@@ -144,7 +144,7 @@
 <!-- TOOLS & ENVIRONMENT -->
 <h3 align="center">Tools & environment</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,linux,vim,idea,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,vim,idea,vscode&theme=dark" />
 </p>
 
 
@@ -188,9 +188,9 @@ Daily algorithmic and problem-solving challenges
    <img height="165" src="https://github-readme-stats.vercel.app/api?username=giovannini96&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" /> 
    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannini96&layout=compact&theme=midnight-purple&hide_border=true" /> 
 </p>-->
-<p align="center"> 
+<!--<p align="center"> 
    <img src="https://streak-stats.demolab.com?user=giovannini96&theme=midnight-purple&hide_border=true" /> 
-</p>
+</p>-->
 <p align="center"> 
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=giovannini96&bg_color=0D0B1A&color=FDB927&line=6A00FF&point=FDB927&area=true&hide_border=true" /> 
 </p> 
