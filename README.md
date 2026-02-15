@@ -72,9 +72,9 @@
 
 <div align="center">
 
-<table style="border:0;">
+<table>
 <tr style="border:0;">
-<td align="center" width="420" style="border:0;">
+<td align="center" width="420" style="border:2px; border-color: #6A00FF;">
 
 ### 💻 Developer  
 Junior Software Developer (Full-Stack)  
