@@ -146,7 +146,7 @@
 <!-- APPRENTICESHIP -->
 <h3 align="center">Apprenticeship experience</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,svelte,github,docker,terraform,postgres,aws,git,bash,js,java,python,swift,gcp,vue,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,github,docker,terraform,postgres,aws,git,bash,js,java,python,swift,gcp,vue, react,mysql&theme=dark" />
 </p>
 
 <!-- SIDE PROJECTS -->
@@ -158,7 +158,7 @@
 <!-- LEARNING -->
 <h3 align="center">Learning next</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,terraform,postgres,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=haskell&theme=dark" />
 </p>
 
 
