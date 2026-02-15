@@ -198,13 +198,31 @@ Daily algorithmic and problem-solving challenges
    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A00FF,100:FDB927&height=3" />
 </p>
 <!-- PROJECTS -->
-<h2 align="center">🧪 Projects</h2> 
-<div align="center">
-Project	Description	Tech
-Project 1	Short description	React · Node
-Project 2	Short description	Go · Postgres
-Project 3	Short description	Java · Spring
-</div> 
+<h2 align="center">🧪 Upcoming Projects</h2>
+
+<table align="center">
+<tr>
+<td width="420" valign="top">
+
+### 🃏 Estimation Poker Tool  
+Customisable planning-poker application for development teams.  
+Focus on flexible voting systems, team-specific decks, and clean session UX.
+
+**Planned tech:** React · Node · WebSockets · Postgres
+
+</td>
+<td width="420" valign="top">
+
+### 🍽 Better Meal Plan  
+Internal meal-planning tool with improved UX, automation, and tracking.  
+Goal: smarter planning, easier adjustments, and better overview for teams.
+
+**Planned tech:** Full-stack web app · API backend · database-driven planning
+
+</td>
+</tr>
+</table>
+
 <p align="center"> 
    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDB927,100:6A00FF&height=3" />
 </p>
