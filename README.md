@@ -153,7 +153,11 @@
    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDB927,100:2A004F&height=3" /> </p>
 <!-- CURRENT -->
 <h2 align="center">🌍 Currently</h2> 
-<p align="center"> Building full-stack projects Improving backend architecture Exploring DevOps & infrastructure Writing cleaner code daily </p> 
+<p align="center">
+Working on <a href="https://www.elbjets.com" target="_blank">ELBJETS GmbH</a> — private jet charter platform based in Hamburg<br>
+Developing an internal operations app for Darija d.o.o. Belgrade — accounting, quoting, order tracking, and warehouse management<br>
+Solving <a href="https://adventofcode.com" target="_blank">Advent of Code</a> challenges to sharpen problem-solving and algorithmic skills
+</p>
 <p align="center"> 
    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2A004F,100:6A00FF&height=3" /> 
 </p>
