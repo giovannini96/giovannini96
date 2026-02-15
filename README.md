@@ -152,7 +152,7 @@
 <!-- SIDE PROJECTS -->
 <h3 align="center">Side projects</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,docker,terraform,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,php,laravel,mysql,c,linux,js,html,css&theme=dark" />
 </p>
 
 <!-- LEARNING -->
