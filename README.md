@@ -131,10 +131,6 @@
 
 <!-- TECH STACK -->
 <h2 align="center">🧰 Tech stack</h2>
-<p align="center"> 
-   <img src="https://skillicons.dev/icons?i=ts,go,java,python,c,php,docker,git,bash,mysql,postgres,terraform&theme=dark" /> 
-</p> 
-
 
 <!-- AT WORK -->
 <h3 align="center">At work</h3>
