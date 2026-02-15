@@ -146,7 +146,7 @@
 <!-- APPRENTICESHIP -->
 <h3 align="center">Apprenticeship experience</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,c,php,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,go,kotlin,spring,svelte,github,docker,terraform,postgres,aws,git,bash,js,java,python,swift,gcp,vue,mysql&theme=dark" />
 </p>
 
 <!-- SIDE PROJECTS -->
