@@ -29,14 +29,14 @@
 </p>
 
 <!-- SOCIAL -->
-<p align="center">
+<!--<p align="center">
   <a href="https://www.linkedin.com/in/dusan-ivancic-42344117a">
     <img src="https://img.shields.io/badge/LinkedIn-6A00FF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discordapp.com/users/559488062065868849">
     <img src="https://img.shields.io/badge/Discord-FDB927?style=for-the-badge&logo=discord&logoColor=0D0B1A" />
   </a>
-</p>
+</p>-->
 
 <!-- FEATURE IMAGE -->
 <div align="center" style="background:#0D0B1A; padding:18px; border-radius:18px;">
